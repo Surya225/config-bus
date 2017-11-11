@@ -1,3 +1,3 @@
 ---
 service:
-  prop:prop value is 1234
+  prop: prop value is 1234
